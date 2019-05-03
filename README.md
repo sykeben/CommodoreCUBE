@@ -13,5 +13,5 @@ The whole system runs off of a Raspberry Pi 3 (which the case is designed for). 
 
 <br>
 
-### Project Status (as of May 2, 2019)
-Currently, I am designing a case for the whole thing. Once completed, it should be able to be 3D printed in two parts, the "tray" and the "cover".
+### Project Status (as of May 3, 2019)
+The case has been designed and an animation can be viewed [here](https://github.com/sykeben/CommodoreCUBE/raw/e2a7bc3ac450857eaa4a2e50562f0846bc4ed240/Case%20Model/Renderings/2019-05-03/Assembly%20Video%20(Final%2C%20Edited).mp4). My next order of business is to get the case printed.
