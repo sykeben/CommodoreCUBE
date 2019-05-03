@@ -4,7 +4,7 @@ CUBE: Commodore Ultra Best Emulator
 <br>
 
 ### Software
-The whole core of this project revolves around a custom Linux distribution, [Combian64](https://cmaiolino.wordpress.com/). This custom OS is based on a lite version of Raspbian, but with a twist. You (should) never see the console, or any Linux-like UI. It boots directly to a full-screen emulator, VICE, complete with it's own menus. When you close the emulator (through the <kbd>F12<kdb> menu), it opens a system menu. This menu allows you to switch emulators, copy ROMs, connect to WiFi and more.
+The whole core of this project revolves around a custom Linux distribution, [Combian64](https://cmaiolino.wordpress.com/). This custom OS is based on a lite version of Raspbian, but with a twist. You (should) never see the console, or any Linux-like UI. It boots directly to a full-screen emulator, VICE, complete with it's own menus. When you close the emulator (through the <kbd>F12</kbd> menu), it opens a system menu. This menu allows you to switch emulators, copy ROMs, connect to WiFi and more.
 
 <br>
 
